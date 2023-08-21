@@ -31,18 +31,84 @@ UIは初めてゲームをする人でも楽しめるように操作性とわか
 ・GeekSalonDevelopersConference : tech賞３位
 
 ## A.C.T
+### 📝:Product Overview
+
+### 💡:Background of Production
+
+### 💪:Features and Strengths
+
+### ⚙️:Tecnologies
+
+### 👨‍💻:In charge
+
+### 🥇:Award
 
 ## Parknife
+### 📝:Product Overview
+
+### 💡:Background of Production
+
+### 💪:Features and Strengths
+
+### ⚙️:Tecnologies
+
+### 👨‍💻:In charge
+
+### 🥇:Award
 
 # WEB💻
 
 ## ErrorRecorder
+### 📝:Product Overview
+
+### 💡:Background of Production
+
+### 💪:Features and Strengths
+
+### ⚙️:Tecnologies
+
+### 👨‍💻:In charge
+
+### 🥇:Award
 
 ## CoverAtelier
+### 📝:Product Overview
+
+### 💡:Background of Production
+
+### 💪:Features and Strengths
+
+### ⚙️:Tecnologies
+
+### 👨‍💻:In charge
+
+### 🥇:Award
 
 # Robot🤖
 ## 疑似ARプロジェクター
+### 📝:Product Overview
+
+### 💡:Background of Production
+
+### 💪:Features and Strengths
+
+### ⚙️:Tecnologies
+
+### 👨‍💻:In charge
+
+### 🥇:Award
 
 ## 動き回る目覚まし時計
+### 📝:Product Overview
+
+### 💡:Background of Production
+
+### 💪:Features and Strengths
+
+### ⚙️:Tecnologies
+
+### 👨‍💻:In charge
+
+### 🥇:Award
 
 
